@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => '192.168.121.11',
-	'username' => 'omar-fuel',
-	'password' => 'omar',
+	'hostname' => 'localhost',
+	'username' => 'myomardrup',
+	'password' => 'iV6J00zP',
 	'database' => 'fuelcms',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
